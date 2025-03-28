@@ -63,29 +63,20 @@ User portfolio view with profit/loss
 Buy/sell stocks and track your investments
 
 
-## 📂 Project Structure
-
-stock-portfolio-tracker/
-├── data/               # Data storage files
-├── models/             # Business logic classes
-├── utils/              # Helper functions
-├── menus/              # Interface handlers
-└── tests/              # Unit tests
-
 ## 🚀 Future Enhancements
 
-1.Real-time stock price integration
-2.Graphical portfolio visualization
-3.Email notifications
-4.Multi-user support
+- Real-time stock price integration
+- Graphical portfolio visualization
+- Email notifications
+- Multi-user support
 
 ## 🤝 Contributing
 
-1.Fork the project
-2.Create your feature branch (git checkout -b feature/AmazingFeature)
-3,Commit your changes (git commit -m 'Add some AmazingFeature')
-4.Push to the branch (git push origin feature/AmazingFeature)
-5.Open a Pull Request
+- Fork the project
+- Create your feature branch (git checkout -b feature/AmazingFeature)
+- Commit your changes (git commit -m 'Add some AmazingFeature')
+- Push to the branch (git push origin feature/AmazingFeature)
+- Open a Pull Request
 
 ## 📝 License
 
