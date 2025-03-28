@@ -1,69 +1,70 @@
-# 📈 Stock Portfolio Tracker
+📈 Stock Portfolio Tracker
 
-![Project Screenshot](screenshots/admin_menu.png)  
-*Main menu interface of the application*
+Main menu interface of the application
 
-A console-based stock portfolio management system with admin/user roles, built with Python.
+A console-based stock portfolio management system with admin and user roles, built using Python.
 
-## 🌟 Features
+⸻
 
-### Admin Features
-- 🛠️ Add/remove stocks
-- 📊 Update stock prices
-- 👥 View all user portfolios
-- 📜 View transaction history
+🌟 Features
 
-### User Features
-- 💰 Buy/sell stocks
-- 📊 View portfolio with profit/loss calculations
-- 🕰️ Transaction history
-- 📈 Portfolio performance summary
+🔹 Admin Features
+	•	🛠️ Add/remove stocks
+	•	📊 Update stock prices
+	•	👥 View all user portfolios
+	•	📜 View transaction history
 
-## 🛠️ Technologies Used
+🔹 User Features
+	•	💰 Buy/sell stocks
+	•	📊 View portfolio with profit/loss calculations
+	•	🕰️ Check transaction history
+	•	📈 Get portfolio performance summary
 
-- Python 3
-- `tabulate` for beautiful console tables
-- File-based data persistence
-- OOP principles
+⸻
 
-## 📦 Installation
+🛠️ Technologies Used
+	•	Python 3
+	•	tabulate for formatted console tables
+	•	File-based data persistence
+	•	Object-Oriented Programming (OOP) principles
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/stock-portfolio-tracker.git
-   cd stock-portfolio-tracker
+⸻
 
-2. Install dependencies:
-   bash
-   pip install -r requirements.txt
+📦 Installation
+	1.	Clone the repository:
 
-3. Run the application:
-   bash
-   python main.py
+git clone https://github.com/yourusername/stock-portfolio-tracker.git
+cd stock-portfolio-tracker
+
+
+	2.	Install dependencies:
+
+pip install -r requirements.txt
+
+
+	3.	Run the application:
+
+python main.py
+
+
+
+⸻
 
 🖥️ Usage
 
-## First Run
+🔹 First Run
+	•	Register as a new user or log in as an admin.
+	•	Default Admin Credentials: admin/admin
 
-Initial setup screen
+🔹 Admin Menu
+	•	Manage stocks and view all transactions.
 
-Register as a new user or login as admin:
-Default admin credentials: admin/admin
-Admin Panel
+🔹 User Portfolio
+	•	Buy/sell stocks and track investments with profit/loss calculations.
 
-## Admin Menu
-Admin management interface
+⸻
 
-Manage stocks and view all transactions
-User Interface
-
-## User Portfolio
-User portfolio view with profit/loss
-
-Buy/sell stocks and track your investments
-
-
-## 📂 Project Structure
+📂 Project Structure
 
 stock-portfolio-tracker/
 ├── data/               # Data storage files
@@ -72,24 +73,46 @@ stock-portfolio-tracker/
 ├── menus/              # Interface handlers
 └── tests/              # Unit tests
 
-## 🚀 Future Enhancements
 
-1.Real-time stock price integration
-2.Graphical portfolio visualization
-3.Email notifications
-4.Multi-user support
 
-## 🤝 Contributing
+⸻
 
-1.Fork the project
-2.Create your feature branch (git checkout -b feature/AmazingFeature)
-3,Commit your changes (git commit -m 'Add some AmazingFeature')
-4.Push to the branch (git push origin feature/AmazingFeature)
-5.Open a Pull Request
+🚀 Future Enhancements
+	•	✅ Real-time stock price integration
+	•	✅ Graphical portfolio visualization
+	•	✅ Email notifications
+	•	✅ Multi-user support
 
-## 📝 License
+⸻
 
-Distributed under the MIT License. See LICENSE for more information.
+🤝 Contributing
+	1.	Fork the repository
+	2.	Create a feature branch:
+
+git checkout -b feature/AmazingFeature
+
+
+	3.	Commit your changes:
+
+git commit -m "Add AmazingFeature"
+
+
+	4.	Push to the branch:
+
+git push origin feature/AmazingFeature
+
+
+	5.	Open a Pull Request
+
+⸻
+
+📝 License
+
+Distributed under the MIT License. See LICENSE for details.
+
+⸻
+
+
 
 <div align="center">
     Made with ❤️ and Python
